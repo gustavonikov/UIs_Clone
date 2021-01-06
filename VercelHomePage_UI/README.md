@@ -1,5 +1,5 @@
 <h1 align="center">
-UI Clone - Vercel (Homepage)
+UI Clone - Vercel (Homepage only)
 </h1>
 
 <p align="center"><a href="https://vercel.com">Vercel Homepage</a> UI clone for study purposes.</p>
