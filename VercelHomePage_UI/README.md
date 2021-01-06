@@ -19,7 +19,7 @@ UI Clone - Vercel (Homepage only)
 - [x] HTML, SCSS, JS
 - [x] SVG Images
 
-## Start Dev Environment for VSCode
+## Start Dev environment for VSCode
 
 1. Open project folder in `VSCode`
 2. Install `Live Server` and `Live Sass Compiler` extension
