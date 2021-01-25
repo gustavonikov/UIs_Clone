@@ -8,7 +8,7 @@ UI Clone - Pinterest (Homepage only)
 ## Resources
 
 - [x] HTML, SCSS, JS
-- [x] SVG Images
+- [x] PNG Images
 
 ## Start Dev environment for VSCode
 
