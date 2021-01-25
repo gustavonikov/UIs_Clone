@@ -9,10 +9,10 @@ function enterScreen(index) {
 	grid.classList.add('active')
 
 	gridColumns.forEach(element => {
-		element.classList.remove('animate-before', 'animate-after')
+		element.classList.remove('animate-before')
 	})
 
-	heading.classList.remove('animate-before', 'animate-after')
+	heading.classList.remove('animate-before')
 }
 
 function exitScreen(index, exitDelay) {
