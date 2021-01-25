@@ -3,7 +3,6 @@ UI Clone - Pinterest (Homepage only)
 </h1>
 
 <p align="center"><a href="https://pinterest.com">Pinterest Homepage</a> UI clone for study purposes.</p>
-<p align="center">Click <a href="https://www.youtube.com/playlist?list=PL85ITvJ7FLohTZv9cC5-PrZ39Q3cugWqp">here</a> to the YouTube playlist of RocketSeat where Guilherme Rodz teaches how to do this UI.</p>
 
 ## Resources
 
